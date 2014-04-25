@@ -1,5 +1,7 @@
 # SBCS Open Source Project
 
-Does shane ever know what he wants to do?
+## Usage
 
-Probably not.
+1) Install node.js
+2) Install npm
+3) `npm install` to install project packages

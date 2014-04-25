@@ -2,6 +2,9 @@
 var express = require('express');
 var path = require('path');
 
+/* Config imports */
+var config = require('./config');
+
 /* Express and Socket.io */
 var app = require('express')(),
   server = require('http').createServer(app),

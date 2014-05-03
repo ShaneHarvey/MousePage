@@ -1,4 +1,4 @@
-# SBCS Open Source Project
+# MousePage
 
 ## Usage
 
